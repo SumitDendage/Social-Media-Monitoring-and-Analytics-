@@ -61,11 +61,3 @@ Outcome:
 The project will deliver a comprehensive Big Data analytics system that provides deep insights into social media trends, public sentiment, and key influencers. Users will benefit from a user-friendly interactive dashboard and a detailed report, enabling informed decision-making based on real-time social media data. The insights derived from this system can be used to shape marketing strategies, public relations efforts, and overall business strategies, ensuring a proactive approach to managing online presence and engagement.
 
 
-Tools and Technologies:
-- Data Collection:Twitter API, Facebook Graph API, Instagram API, BeautifulSoup, Scrapy.
-- Data Storage & Retrieval:Hadoop, MongoDB (NoSQL database).
-- Data Processing and Analysis: Python & Libraries, Apache Spark
-- Data Visualization: Plotly, Matplotlib, Google Data Studio, Tableau
-- Development Environment: Visual Studio Code, Jupyter Notebook, GitHub for version control.
-
-
